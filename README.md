@@ -62,7 +62,7 @@ If `series` taxonomy is used, pages from the same series are shown in the relate
 
 ## Footer
 
-* The footer contains up to sections that can be specified in the front matter. The template has special column arrangement for the sectioning as defined below.
+* The footer contains multiple sections that can be specified in the front matter. The template has special column arrangement for the sectioning as defined below.
 * There can be modified in the settings as an array in `Site.Params.Footer` with the following options
 
     * `title` - Title of the section.
