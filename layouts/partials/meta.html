@@ -128,6 +128,9 @@ style="background-image:url({{$bg.RelPermalink}})"
 {{ if (and (or (not .Params.Content) .Content) $needsContentRender) }}
     <section class="meta content with-background">
         <article>
+            <div class="cover">
+            {{- partial "util/cover.html" (dict "class" "banner-holder" "page" . "width" 1024 "height" 330) -}}
+            </div>
             {{with .Title}}<h1 class='title'>{{.}}</h1>{{end}}
             {{ with .Params.subtitle }}
             <span class='subtitle'>{{.}}</span>

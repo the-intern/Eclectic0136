@@ -3942,6 +3942,10 @@ header {
   vertical-align: middle;
 }
 
+.meta.content .banner {
+  width: 100%;
+}
+
 .meta.content h1,
 .meta.content h2,
 .meta.content h3,
