@@ -1,12 +1,12 @@
-name = "Eclectic"
+name = "Eclectic0136"
 license = "MIT"
-licenselink = "https://github.com/atishay/atishay.github.io/blob/master/LICENSE"
+licenselink = "https://github.com/the-intern/Eclectic0136/LICENSE"
 description = "A theme for high performance customizable hugo websites."
-homepage = "https://atishay.me"
+homepage = "https://nobodybut.me"
 tags = ["Website", "Performance", "Customizable"]
 features = []
-min_version = "0.55"
+min_version = "0.02"
 
 [author]
-  name = "Atishay Jain"
-  homepage = "https://atishay.me"
+  name = "the intern"
+  homepage = "https://example.me"

@@ -1,5 +1,5 @@
 {
-  "name": "Eclectic",
+  "name": "Eclectic0136",
   "version": "1.0.0",
   "description": "A theme for high performance customizable hugo websites.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atishay/eclectic-hugo-theme.git"
+    "url": "https://github.com/the-intern/Eclectic0136"
   },
   "keywords": [
     "Website",

@@ -24,4 +24,4 @@ colorPickerEnabled = true
 # Combinations to show in the color picker.
 colorVariations = [ {name = "violet", color = "8800D3"}, {name = "red", color = "FF0000"}]
 # Github link. Shows the github corner at the top right which links to the github website.
-github = "https://github.com/atishay/eclectic-hugo-theme"
+github = "https://github.com/the-intern/Eclectic0136" 
