@@ -173,3 +173,4 @@ NOTE: Almost all the properties are optional. The theme is usable without provid
 * Hugo debug bar: https://github.com/JugglerX/hugo-debug-bar
 * Hugo tag cloud: https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/
 * Series in Hugo: https://discourse.gohugo.io/t/previous-in-series-and-next-in-series-links/2654/6
+# Eclectic0136
