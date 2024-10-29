@@ -1,6 +1,6 @@
 name = "Eclectic0136"
 license = "MIT"
-licenselink = "https://github.com/the-intern/Eclectic0136/LICENSE"
+licenselink = "https://github.com/the-intern/Eclectic0136/blob/main/LICENSE"
 description = "A theme for high performance customizable hugo websites."
 homepage = "https://nobodybut.me"
 tags = ["Website", "Performance", "Customizable"]
